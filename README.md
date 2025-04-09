@@ -9,7 +9,7 @@
 <body>
     <section>
         <h1>👋 Olá, sou José Baltazar </h1>
-        <p>Sou aluno do <strong>IFCE - Campus Maranguape</strong>, no curso de <strong>Técnico em Informática</strong> 👨‍💻. goleiro de futsal,bjj,jogador de vôlei, futuro policial militar 💻, com uma grande paixão por eletrônica e tecnologia.</p>
+        <p>Sou aluno do <strong>IFCE - Campus Maranguape</strong>, no curso de <strong>Técnico em Informática</strong> 👨‍💻. goleiro de futsal,bjj,jogador de vôlei, futuro policial militar 💻, gosto de eletrônica e tecnologia,gosto de boombap e trap</p>
 
     
 
