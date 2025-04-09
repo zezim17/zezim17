@@ -20,7 +20,7 @@
         <ul style="list-style-type: none; padding: 0;">
             <li>
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 - Linguagem de marcação para construção de páginas web">
-            </li>dding: 20px; } img { margin-right: 10px; } .social-links a { margin-right: 10px; } /* Responsivi
+                    <li>padding: 20px; } img { margin-right: 10px; } .social-links a { margin-right: 10px; }</li>
             <li>
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 - Folhas de estilo para design de páginas web">
             </li>
