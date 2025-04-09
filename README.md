@@ -1,10 +1,10 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Perfil Profissional - jose Baltazar/title>
-    <style>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Perfil Profissional - jose Baltazar/title>
+        <style>
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -33,8 +33,9 @@
                 max-width: 100%;
             }
         }
-    </style>
+       </style>
 </head>
+            
 <body>
     <section>
         <h1>👋 Olá, sou José Baltazar </h1>
