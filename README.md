@@ -9,7 +9,11 @@
 <body>
     <section>
         <h1>👋 Olá, sou José Baltazar </h1>
-        <p>Sou aluno do <strong>IFCE - Campus Maranguape</strong>, no curso de <strong>Técnico em Informática</strong> . goleiro de futsal,bjj,jogador de vôlei, futuro policial militar , gosto de tecnologia,gosto de boombap e trap</p>
+        <p>-Sou aluno do <strong>IFCE - Campus Maranguape</strong>
+                 -no curso de <strong>Técnico em Informática</strong>
+                -goleiro de futsal,luto jiu-jitsu,jogador de vôlei e futuro policial militar 
+                -gosto de ir pra academia
+                -gosto de boombap e trap</p>
 
     
 
@@ -55,7 +59,7 @@
                 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail - Envie um e-mail para Victor">
             </a>
             <a href="https://www.instagram.com/_jose_jz" target="_blank">
-                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram">
+                <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram - Me siga no Instagram"> 
             </a>
         </div>
     </section>
